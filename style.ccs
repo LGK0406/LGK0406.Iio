@@ -1,0 +1,7 @@
+cuerpo {
+    color de fondo : azul violeta;
+}
+
+imagen {
+    ancho :  20 %  !importante ;
+}
